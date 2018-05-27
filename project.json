@@ -1,0 +1,8 @@
+{
+  "name": "magic-prices",
+  "description": "Lambda for servicing Amazon Alexa Skills requests for MTG card prices.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::252232419027:role/magic-prices_lambda_function",
+  "environment": {}
+}
