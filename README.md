@@ -6,3 +6,4 @@ Alexa skill for Magic the Gathering card prices
 - Handle cards that return a non-paper version (ie: `Gate to Phyrexia`)
 - Support foil card prices
 - Support asking for a card in a given set
+- Metrics (push to Splunk?)
